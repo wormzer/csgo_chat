@@ -1,2 +1,1 @@
-# steam
 # csgo_chat
